@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/terbdaycakee/static/css/main.65b5cacc.css",
-    "main.js": "/terbdaycakee/static/js/main.5faddba1.js",
+    "main.css": "/terbdaycakee/static/css/main.44d7bd88.css",
+    "main.js": "/terbdaycakee/static/js/main.2297c502.js",
     "static/js/453.ac1a8cc6.chunk.js": "/terbdaycakee/static/js/453.ac1a8cc6.chunk.js",
     "static/media/birthdaytext.png": "/terbdaycakee/static/media/birthdaytext.54af02a2196db63d14eb.png",
     "static/media/bdayaudo.mp3": "/terbdaycakee/static/media/bdayaudo.3e0c7eec94df84220422.mp3",
     "index.html": "/terbdaycakee/index.html",
-    "main.65b5cacc.css.map": "/terbdaycakee/static/css/main.65b5cacc.css.map",
-    "main.5faddba1.js.map": "/terbdaycakee/static/js/main.5faddba1.js.map",
+    "main.44d7bd88.css.map": "/terbdaycakee/static/css/main.44d7bd88.css.map",
+    "main.2297c502.js.map": "/terbdaycakee/static/js/main.2297c502.js.map",
     "453.ac1a8cc6.chunk.js.map": "/terbdaycakee/static/js/453.ac1a8cc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65b5cacc.css",
-    "static/js/main.5faddba1.js"
+    "static/css/main.44d7bd88.css",
+    "static/js/main.2297c502.js"
   ]
 }
